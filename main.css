@@ -1,0 +1,26 @@
+html {
+  font-size: 22px;
+  scroll-behavior: smooth;
+}
+body {
+  background-color: rgb(153, 146, 160);
+  color: rgb(48, 46, 44);
+}
+table,
+tr,
+td,
+th,
+caption {
+  border: 1px solid rgb(247, 245, 245);
+  padding: 0.5em;
+  border-collapse: collapse;
+}
+a {
+  color: brown;
+}
+a:hover {
+  color: beige;
+}
+fieldset{
+    border: 1px solid rgb(176, 228, 228);
+}
